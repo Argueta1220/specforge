@@ -1,0 +1,12 @@
+.DS_Store
+
+# Java
+backend/target/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editors
+.idea/
+.vscode/
