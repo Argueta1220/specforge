@@ -101,7 +101,7 @@ function App() {
       <header className="page-header">
         <div>
           <p className="eyebrow">Build planner</p>
-          <h1>PC Compatibility Checker</h1>
+          <h1>SpecForge</h1>
         </div>
         <span className="api-pill">Spring Boot + React</span>
       </header>
